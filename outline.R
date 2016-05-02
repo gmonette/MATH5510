@@ -3,6 +3,18 @@
 #' output: html_document
 #' bibliography: bibliography.bib
 #' ---
+#' 
+#' # Introduction
+#' 
+#' We think of data as the bedrock of factual truth. 
+#' 
+#' Yet exactly the same data, analyzed in slightly different 
+#' ways can lead to opposite conclusions.
+#' 
+#' This is the root of one of the most famous aphorisms about
+#' statistics: There are lies, damned lies and ... statistics. 
+#' attributed to Benjamin Disraeli. Some believe, and maybe some research would confirm, that Disraeli said this in the context of political debates about the "Corn Laws" in the mid 1800s -- that era's version of a free trade pact. Different analyses led to difference conclusion.  Disraeli was a protectionist.  
+#' 
 #'
 #' # Short description
 #' 
@@ -113,6 +125,11 @@
 #' 16. Kahneman and Twersky: 'base rate neglect' (see Julia Galef)
 #' 4. 
 #'   
+#' ## Projects
+#' 
+#' 1. Prepare lessons on ...
+#' 
+#' 
 #' 
 ## Bibliography ----
 
